@@ -1,0 +1,48 @@
+{
+
+    "shuju":[
+        {   "id":"1",
+            "img":"/img/01.jpg",
+            "nm":"比悲伤更悲伤的故事",
+            "globalReleased":true
+        },
+        {   "id":"2",
+            "img":"/images/01.jpg",
+            "nm":"比悲伤更悲伤的故事",
+            "globalReleased":true
+        },
+        {   "id":"3",
+            "img":"../images/01.jpg",
+            "nm":"比悲伤更悲伤的故事",
+            "globalReleased":true
+        },
+        {   "id":"4",
+            "img":"/assets/images/01.jpg",
+            "nm":"比悲伤更悲伤的故事",
+            "globalReleased":true
+        },
+        {   "id":"5",
+            "img":"./assets/images/01.jpg",
+            "nm":"比悲伤更悲伤的故事",
+            "globalReleased":true
+        },
+        {   "id":"6",
+            "img":"../assets/images/01.jpg",
+            "nm":"比悲伤更悲伤的故事",
+            "globalReleased":true
+        },
+        {   "id":"7",
+            "img":"assets/images/01.jpg",
+            "nm":"比悲伤更悲伤的故事",
+            "globalReleased":true
+        },
+        {   "id":"8",
+            "img":"/images/01.jpg",
+            "nm":"比悲伤更悲伤的故事",
+            "globalReleased":true
+        }
+        
+    
+           
+    ]
+}
